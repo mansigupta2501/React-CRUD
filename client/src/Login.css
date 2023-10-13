@@ -1,0 +1,48 @@
+
+
+.login-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-color: #f8f9fa;
+  }
+  
+  .left-panel {
+    flex: 1;
+    text-align: center;
+  }
+  
+  .right-panel {
+    flex: 1;
+    
+    background-color: #ffffff; 
+  }
+  
+  .logo {
+    max-width: 50%;
+    max-height: 50%;
+    display: block;
+    margin: 0 auto;
+  }
+  
+
+  .form-control {
+    height: 50px;
+    width: 60%;
+    font-size: 16px;
+    border: 1px solid black;
+  }
+
+  
+  .forget-pass {
+    height: 50px;
+    width: 12px;
+    font-size: 12px;
+    font-weight: 900;
+    border: 1px solid salmon;
+    display: flex;
+    top: 12px;
+    margin-bottom: 12px;
+    background-color: salmon;
+  }

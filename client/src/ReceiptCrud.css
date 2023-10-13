@@ -1,0 +1,16 @@
+
+.add-receipt-container {
+      text-align: center;
+      padding-bottom: 20px;
+    }
+    
+.crud-form{
+      border: 1px solid black;
+      padding: 2rem 1.5rem;
+      width: 100%;
+      padding: 20px;
+}
+.crud-form table{
+      width: 75%
+
+}
